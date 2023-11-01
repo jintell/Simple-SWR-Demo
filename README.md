@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with React App and SWR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).. It also uses the following technology:
+
+1. React 18.2.0 
+2. React DOM 8.2.0 
+3. React Router DOM 6.17.0 
+4. ReactScript 5.0.1
+5. Typescript 4.9.5 [Typescript Quick Start](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+6. swr  2.2.4 [stale-while-revalidate (SWR) based on a cache invalidation strategy popularized by HTTP RFC 5861 ](https://swr.vercel.app/docs/getting-started)
+7. react-bootstrap 2.9.1
+8. axios 1.6.0
 
 ## Available Scripts
 
